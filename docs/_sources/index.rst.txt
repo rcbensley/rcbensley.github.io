@@ -1,5 +1,5 @@
 .. Richard Bensley documentation master file, created by
-   sphinx-quickstart on Sat Nov 21 16:53:08 2020.
+   sphinx-quickstart on Fri Dec  4 00:14:01 2020.
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
