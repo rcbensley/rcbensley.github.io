@@ -1,9 +1,9 @@
-# MariaDB
+# MariaDB Cookbook
 
-* Server and Client configs
-* Replication fast track
-* Connect engine
-* Maxscale
-* Columnstore
-* Clustrix -> Xpand
-* Spider
+* Configuration
+* Security and Auditing
+* Measure
+* Backup / Restore
+* Scale and Tolerance
+* Tooling
+* Data Processing
